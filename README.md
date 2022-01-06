@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MajdHallak
-- 👀 I’m interested in web Development and python 
+- 👀 I’m interested in web Development, flutter and python 
 - 🌱 I’m currently learning WD and enhancing my python skills
 - 💞️ I’m looking to collaborate on WD projects
 - 📫 How to reach me majdhallak@gmail.com
