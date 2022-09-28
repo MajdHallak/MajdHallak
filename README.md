@@ -1,6 +1,6 @@
-Hi, I’m Majd Hallak
-I'm a software Engineering student at Bournemouth University, UK
-Website: https://www.majdhallak.com
+- Hi, I’m Majd Hallak
+- I'm a software Engineering student at Bournemouth University, UK
+- Website: https://www.majdhallak.com
 
 
 <!---
