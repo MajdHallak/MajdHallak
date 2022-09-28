@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MajdHallak
-- 👀 I’m interested in web Development, flutter and python 
-- 🌱 I’m currently learning WD and enhancing my python skills
-- 💞️ I’m looking to collaborate on WD projects
-- 📫 How to reach me majdhallak@gmail.com
+Hi, I’m Majd Hallak
+I'm a software Engineering student at Bournemouth University, UK
+Website: https://www.majdhallak.com
+
 
 <!---
 MajdHallak/MajdHallak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
