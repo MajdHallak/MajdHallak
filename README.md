@@ -1,5 +1,5 @@
 - Hi, I’m Majd
-- I'm a software Engineering student at Bournemouth University, UK
+- Software Engineer, based in the UK.
 - Website: https://www.majdhallak.com
 
 
