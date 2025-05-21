@@ -1,18 +1,11 @@
-```
-__  __        _     _    _   _       _ _       _    
-|  \/  | __ _ (_) __| |  | | | | __ _| | | __ _| | __
-| |\/| |/ _` || |/ _` |  | |_| |/ _` | | |/ _` | |/ /
-| |  | | (_| || | (_| |  |  _  | (_| | | | (_| |   < 
-|_|  |_|\__,_|/ |\__,_|  |_| |_|\__,_|_|_|\__,_|_|\_\
-```
-## Hello! 👋
+## Hello World!
 I'm Majd, your favourite software developer.
 
 ## Skills
-- 👨‍💻 Java, JavaScript, TypeScript, etc..
 - ⚙️ React Js/Native
 - 👁️ CSS
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL, SQL/noSQL, Mongodb, post
+- 👨‍💻 Java, JavaScript, TypeScript, etc..
 + a lot more 
 
 ## Contact
